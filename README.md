@@ -1,5 +1,6 @@
-# Code_6918
+# Official Code
 
+Code for "Learning defense transformations for counterattacking adversarial examples"
 
 ## Dependencies
 
